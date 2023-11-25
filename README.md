@@ -1,2 +1,2 @@
-# peritectico.github.io
-My own Github Pages repository
+# amolinasimancas.github.io
+Bienvenido a mi Github-Page
